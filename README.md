@@ -47,7 +47,7 @@ A fully-featured Blog API built with **FastAPI** and **PostgreSQL**, complete wi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/BlogApi.git
+git clone https://github.com/Emon-X/BlogApi.git
 cd BlogApi
 ```
 
